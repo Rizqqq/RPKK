@@ -1,0 +1,6 @@
+{
+  "name": "Kevin Roleplay - Canon & Fanfic Engine",
+  "description": "Interactive anime and fantasy roleplaying engine powered by Gemini 3.8 Flash. Weave custom fanfiction and OC elements seamlessly into canon universes like My Hero Academia and Naruto Shippuden with local session continuity and RPG dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
